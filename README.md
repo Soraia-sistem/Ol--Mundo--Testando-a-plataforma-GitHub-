@@ -1,2 +1,2 @@
-# Olá Mundo (Testando a plataforma GitHub)
- Repositório criado durante uma live do professor Gustavo Guanabara para teste do Git e GitHub. 
+# Olá, Mundo (Testando a plataforma GitHub)
+ Repositório criado durante uma live do professor Gustavo Guanabara, do site Curso em vídeo para o curso de Git e GitHub.  
